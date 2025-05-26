@@ -1,5 +1,7 @@
 # My To-Do List App
 
+![Figma Design](./TODO-DESIGN.png)
+
 This is a simple to-do list application built with React and Vite.
 
 ## Features
